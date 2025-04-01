@@ -1,0 +1,5 @@
+
+commit-msg:
+  commands:
+    translate:
+      run: node /Users/pavelgonzales/prj/git-commit-translator-lefthook/scripts/translate.js {1}
